@@ -24,5 +24,6 @@ public class HelloResource {
         	System.out.println(123);
         }
         return callback + "(" + json + ")";  
+        
     }  
 }    
